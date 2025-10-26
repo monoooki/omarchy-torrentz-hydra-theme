@@ -12,6 +12,6 @@ a heavy weapon that charges slow but hits hard.
 
 ## Install
 
-1. Copy the `torrentz-hydra` folder into your `Omarchy/themes/` directory.
-2. Set `active = "torrentz-hydra"` in your config.
-3. Reload Omarchy to apply the theme.
+```sh
+omarchy-theme-install https://github.com/monoooki/omarchy-torrentz-hydra-theme
+```
